@@ -1,6 +1,5 @@
-# 🌐 *John Wesley's Portfolio*  
-
-🚀 *Aspiring Web Developer* | 🎨 *UI/UX Designer* | ⚡ *Innovative Digital Creator*  
+# 🌐 **John Wesley's Portfolio**  
+🚀 **Aspiring Web Developer** | 🎨 **UI/UX Designer** | ⚡ **Innovative Digital Creator**  
 
 > *"I believe in solving problems through creativity and innovation."*  
 
@@ -8,79 +7,79 @@
 
 ---
 
-## ✨ *Overview*  
-Welcome to *my portfolio! This space highlights my journey of creating **user-friendly applications* and offering *unique digital solutions. I combine **aesthetic design* with *efficient coding* to build memorable user experiences.  
+## ✨ **Overview**  
+Welcome to my portfolio! This space highlights my journey of creating **user-friendly applications** and offering **unique digital solutions**. I combine **aesthetic design** with **efficient coding** to build memorable user experiences.  
 
 ---
 
-## 📁 *Featured Projects*  
+## 📁 **Featured Projects**  
 Here are some of the most exciting projects I’ve worked on:  
 
-1. *🛠 [SideGig](https://side-gig-website.web.app/)*  
-   A *job-matching platform* connecting *freelancers* and clients with features like *real-time chat* and *skill showcasing*.  
+1. **🛠 [SideGig](https://side-gig-website.web.app/)**  
+   A job-matching platform connecting freelancers and clients with features like real-time chat and skill showcasing.  
 
-2. *🛍 [Vutoria](https://vutoria-60389.web.app/)*  
-   A *virtual try-on solution* that enhances *online shopping* using *AI-powered diffusion models*.  
+2. **🛍 [Vutoria](https://vutoria-60389.web.app/)**  
+   A virtual try-on solution that enhances online shopping using AI-powered diffusion models.  
 
-3. *🎓 [Soulsborne](https://soulsborne-bba5f.web.app/)*  
-   A *student community platform* that encourages *collaboration* and *peer learning*.  
+3. **🎓 [Soulsborne](https://soulsborne-bba5f.web.app/)**  
+   A student community platform that encourages collaboration and peer learning.  
 
-4. *🎶 [Namma Isai](https://github.com/johnwesley755/namma-isai-music)*  
-   A *simple music player* with *playlists, smooth audio controls, and **responsive UI*.  
+4. **🎶 [Namma Isai](https://github.com/johnwesley755/namma-isai-music)**  
+   A simple music player with playlists, smooth audio controls, and a responsive UI.  
 
-5. *🌍 [Gram Panchayat Website](https://github.com/johnwesley755/gram-panchayat)*  
-   A *local governance portal* offering *citizen services, **complaints handling, and **ward details*.  
-
----
-
-## 🌐 *Live Portfolio*  
-Check it out 👉 [*John Wesley's Portfolio*](https://portfolio-web-app-67f10.web.app/)  
+5. **🌍 [Gram Panchayat Website](https://github.com/johnwesley755/gram-panchayat)**  
+   A local governance portal offering citizen services, complaints handling, and ward details.  
 
 ---
 
-## 🎨 *Design Principles*  
-- ✨ *Minimalism:* Clear and simple designs for an intuitive user experience.  
-- 🌈 *Accessibility:* Making sure the applications are inclusive for all users.  
-- 🔄 *Consistency:* Maintaining coherent *color palettes* and *typography*.  
+## 🌐 **Live Portfolio**  
+Check it out 👉 [**John Wesley's Portfolio**](https://portfolio-web-app-67f10.web.app/)  
 
 ---
 
-## 🛠 *How to Run Locally*  
+## 🎨 **Design Principles**  
+- ✨ **Minimalism:** Clear and simple designs for an intuitive user experience.  
+- 🌈 **Accessibility:** Making sure the applications are inclusive for all users.  
+- 🔄 **Consistency:** Maintaining coherent color palettes and typography.  
+
+---
+
+## 🛠 **How to Run Locally**  
 Here’s how you can explore the code on your local machine:  
 
-bash
+```bash
 # Clone the repository
 git clone https://github.com/johnwesley755/portfolio-web-app.git
 
 # Navigate into the directory
-cd portfolio
+cd portfolio-web-app
 
 # Install dependencies
 npm install
 
 # Start the development server
 npm run dev
-
+```
 
 Your app will be live at [http://localhost:5173](http://localhost:5173) 🚀  
 
 ---
 
-## 📬 *Get in Touch*  
+## 📬 **Get in Touch**  
 I’d love to connect! Reach out to me:  
 
-- 📧 *Email:* [johnwesley8113@gmail.com](mailto:johnwesley8113@gmail.com)  
-- 💼 *LinkedIn:* [*John Wesley*](https://www.linkedin.com/in/john-wesley-6707ab258/)  
-- 🐦 *Twitter:* [@JohnWesley97513](https://twitter.com/JohnWesley97513)  
+- 📧 **Email:** [johnwesley8113@gmail.com](mailto:johnwesley8113@gmail.com)  
+- 💼 **LinkedIn:** [**John Wesley**](https://www.linkedin.com/in/john-wesley-6707ab258/)  
+- 🐦 **Twitter:** [@JohnWesley97513](https://twitter.com/JohnWesley97513)  
 
 ---
 
-## ❤ *Show Your Support*  
-If my portfolio or projects inspire you, please *star the repo* 🌟 on *GitHub*. Your support helps me grow and keep creating!  
+## ❤ **Show Your Support**  
+If my portfolio or projects inspire you, please **star the repo** 🌟 on GitHub. Your support helps me grow and keep creating!  
 
 ---
 
-## 🙏 *Acknowledgments*  
-A heartfelt thanks to the *open-source community* for all the guidance and resources that made this journey possible. 🎉  
+## 🙏 **Acknowledgments**  
+A heartfelt thanks to the **open-source community** for all the guidance and resources that made this journey possible. 🎉  
 
 ---
