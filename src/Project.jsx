@@ -81,7 +81,7 @@ const Project = () => {
           {projects.map((project, index) => (
             <motion.div
               key={index}
-              className="relative border hover:border-none group rounded-lg shadow-lg overflow-hidden transition-transform duration-300 hover:scale-105 cursor-pointer bg-gray-90 hover:shadow-[0_0_15px_5px] hover:shadow-purple-500"
+              className="relative border hover:border-none group rounded-lg shadow-lg overflow-hidden transition-transform duration-300 hover:scale-105 cursor-pointer bg-transparent hover:shadow-[0_0_15px_5px] hover:shadow-purple-500"
               onClick={() => window.open(project.link, "_blank")}
               initial={{ opacity: 0, translateY: 50 }}
               animate={controls} // Bind animation controls to scrolling behavior
@@ -93,14 +93,14 @@ const Project = () => {
                   alt={project.name}
                   className="w-full h-full object-cover transition-opacity duration-500"
                 />
-                <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-opacity duration-500"></div>
+                <div className="absolute inset-0 bg-transparent bg-opacity-0 group-hover:bg-opacity-70 transition-opacity duration-500"></div>
               </div>
 
               <div className="p-6">
-                <h4 className="text-3xl font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-blue-500 group-hover:animate-pulse">
+                <h4 className="text-3xl font-extrabold tracking-wide mb-2 text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-blue-500 group-hover:animate-pulse">
                   {project.name}
                 </h4>
-                <p className="text-gray-200 group-hover:text-gray-100 transition-colors duration-300">
+                <p className="text-gray-200 font-bold trackin-wide group-hover:text-gray-100 transition-colors duration-300">
                   {project.description}
                 </p>
 

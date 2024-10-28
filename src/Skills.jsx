@@ -63,7 +63,7 @@ const Skills = () => {
       exit={{ opacity: 0, translateY: 20 }}
       transition={{ duration: 0.2, delay: index * 0.1 }}
     >
-      <div className="flex flex-col items-center p-6 bg-black rounded-lg shadow-lg hover:shadow-xl hover:shadow-purple-500/50">
+      <div className="flex flex-col items-center p-6 bg-transparent rounded-lg shadow-lg hover:shadow-xl hover:shadow-purple-500/50">
         <div className="text-5xl text-white glow-icon mb-4">{skill.icon}</div>
         <h4 className="mt-2 text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-blue-500 font-mono">
           {skill.name}
