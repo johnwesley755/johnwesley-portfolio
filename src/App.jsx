@@ -1,5 +1,7 @@
+// App.jsx
 import React from "react";
-import { ToastContainer } from "react-toastify"; // Moved ToastContainer here
+import { ToastContainer } from "react-toastify"; // Moved ToastContainer to main imports
+import "react-toastify/dist/ReactToastify.css"; // Import Toast styles
 import Particle from "./Particle";
 import Navbar from "./Navbar";
 import Hero from "./Hero";
@@ -12,17 +14,24 @@ import Footer from "./Footer";
 
 const App = () => {
   return (
-    <div className="bg-gray-90">
+    <div className="bg-gray-90 min-h-screen text-tertiary">
       <Particle />
       <Navbar />
-      <Hero />
-      <About />
-      <Skills />
-      <Project />
-      <Timeline />
-      <Contact />
+      <main className="max-w-10xl mx-auto">
+        <Hero />
+        <About />
+        <Skills />
+        <Project />
+        <Timeline />
+        <Contact />
+      </main>
       <Footer />
-      <ToastContainer position="top-right" autoClose={3000} hideProgressBar />
+      <ToastContainer
+        position="top-right"
+        autoClose={3000}
+        hideProgressBar
+        theme="colored"
+      />
     </div>
   );
 };
